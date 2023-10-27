@@ -3,7 +3,6 @@ function featurel(){
 }
 
 function feature2(){
-    //fix
     alert('from feature 2.');
 }
 
